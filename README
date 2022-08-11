@@ -1,3 +1,4 @@
-The codes concerning all of the experiments are provided in the documents respectively. In addition, the corresponding documents/files are named with the characters in the manuscript.
+The codes concerning all of the experiments are provided in the documents Resnet19_cifar10, Resnet19_cifar100, VGG_cifar10, and VGG_cifar100 respectively. 
+In addition, the corresponding documents/files are named with the characters in the manuscript.
 The dataset CIFAR10/100 is public available online. The website is: https://www.cs.toronto.edu/~kriz/cifar.html.
 The raw data of experimental results are provided in the document "Experimental results".
